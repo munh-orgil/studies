@@ -1,6 +1,6 @@
-- [ ] Binary Search 
-- [ ] Depth-First Search (DFS) and Breadth-First Search (BFS) 
-- [ ] Dijkstra's Algorithm for Shortest Paths 
+- [x] Binary Search 
+- [x] Depth-First Search (DFS) and Breadth-First Search (BFS) 
+- [x] Dijkstra's Algorithm for Shortest Paths 
 - [ ] Floyd-Warshall Algorithm for All Pairs Shortest Paths
 - [ ] Bellman-Ford Algorithm for Single-Source Shortest Paths
 - [ ] Kruskal's Algorithm for Minimum Spanning Tree
