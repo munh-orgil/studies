@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
+#define M 10
+#define N 10
  
 // M is number of applicants and N is number of jobs
 
